@@ -10,4 +10,4 @@ Slides, demo files and resources from my talks on Copilot Studio, Power Platform
 
 ## About
 
-I'm Nicolai Schjørmann, Principal Practice Lead for Automation & AI at Abakion, and a Microsoft MVP candidate in Business Applications.
+I'm Nicolai Schjørmann, Principal Practice Lead for Automation & AI at Abakion.
